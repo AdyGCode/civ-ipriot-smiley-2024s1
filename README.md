@@ -16,7 +16,6 @@ The project will help you demonstrate and cement your understanding of the four 
 3. **Inheritance**: by subclassing a common Smiley class
 4. **Encapsulation**: protect the internal state of objects
 
-
 ## Working on this project
 
 If using GitHub Classrooms, use the repository uniquely allocated to you. 
@@ -123,6 +122,14 @@ git remote add upstream https://github.com/NM-TAFE/civ-ipriot-smiley.git
 
 ```bash
 git fetch upstream
+```
+
+## Working with Accessibility Code
+
+If you are using the accessible code version of this project then you will need to install the PyttSX2` module using `pip`:
+
+```bash
+ pip install pyttsx3
 ```
 
 ### After you have submitted
